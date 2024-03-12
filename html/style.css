@@ -1,0 +1,26 @@
+.container-menu {
+    position: fixed;
+    bottom: 0.7rem;
+    left: 1.8rem;
+    display: flex;
+    min-width: 17rem;
+    border: #a00f31 2px solid; /* Border color */
+    border-radius: 5%;
+}
+
+.box {
+    height: 25px;
+    width: calc(100% / 3);
+    background-color: #242424; /* Background color */
+    color: #ef476f; /* Text color */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding: 0 18px;
+}
+
+.icon {
+    margin-right: 5px;
+    font-family: 'Roboto', sans-serif;
+}
