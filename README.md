@@ -1,5 +1,6 @@
 # Showcase Menu
-Showcase menu for a showcase server
+Showcase menu for a showcase server<br>
+Created this script for my showcase server, so I thought I might as well upload it for free
 
 # Features
 - Minimal menu with icons
