@@ -7,7 +7,7 @@ Showcase menu for a showcase server
 - Easy customizable
 
 # Documentation
-You can check out the documentation [here](https://srpeter.gitbook.io/srpeter-docs/scripts/showcase-menu)
+You can check out the documentation [here](https://docs.srpeter.com/scripts/srp_showcasemenu)
 
 # Images
 ![image](https://github.com/SrPeterr/srp_showcasemenu/assets/21348463/9a36e4f5-31a0-41c9-ac8e-baa547bd62fe)
